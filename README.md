@@ -1,2 +1,3 @@
-# Machine-Learning-Final-Exam
-Machine Learning Final Exam Solutions
+# Machine Learning Final Exam Solutions
+This repository contains my solutions and explanations for the final exam of my Machine Learning course. The tasks cover key concepts in machine learning, including classification, model evaluation, and data visualization. Throughout the exam, I applied techniques such as K-Nearest Neighbors (k-NN) for supervised learning, analyzed the effectiveness of different evaluation metrics, and visualized data to better understand model performance. The code and explanations demonstrate my understanding of machine learning principles and my ability to apply them to real-world problems.
+
